@@ -1,5 +1,7 @@
 # oss-lib-errorhandle  
 
+Errorhandle lib for spring-boot based web projects
+
 ## 研发背景  
 
 spring框架原生的错误处理实现比较粗糙, 只能满足基本需求.  
