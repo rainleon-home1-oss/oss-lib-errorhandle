@@ -19,9 +19,9 @@ under the License.
 -->
 <rss version="0.91">
   <channel>
-    <title>oss-lib-errorhandle-spring-boot-1.4.1.RELEASE - Checkstyle report</title>
-    <link>https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE</link>
-    <description>oss-lib-errorhandle-spring-boot-1.4.1.RELEASE - Checkstyle report</description>
+    <title>oss-lib-errorhandle-spring-boot-1.4.2.RELEASE - Checkstyle report</title>
+    <link>https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE</link>
+    <description>oss-lib-errorhandle-spring-boot-1.4.2.RELEASE - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2017</copyright>
     <item>
@@ -30,9 +30,9 @@ under the License.
              Warnings: 0,
              Infos: 0
       </title>
-            <link>https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html</link>
+            <link>https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html</link>
       <description>
-        <p>Click <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.ApplicationErrorExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/ApplicationErrorExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.ApplicationErrorExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/ApplicationErrorExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ResolvedErrorException.java">com/yirendai/oss/lib/errorhandle/api/ResolvedErrorException.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ResolvedErrorException.java">com/yirendai/oss/lib/errorhandle/api/ResolvedErrorException.java</a>
                 </td>
                 <td>
                   0
@@ -74,7 +74,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ApplicationException.java">com/yirendai/oss/lib/errorhandle/api/ApplicationException.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ApplicationException.java">com/yirendai/oss/lib/errorhandle/api/ApplicationException.java</a>
                 </td>
                 <td>
                   0
@@ -88,7 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ConcreteExceptionResolver.java">com/yirendai/oss/lib/errorhandle/api/ConcreteExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ConcreteExceptionResolver.java">com/yirendai/oss/lib/errorhandle/api/ConcreteExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -102,7 +102,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.DefaultExceptionHandler.java">com/yirendai/oss/lib/errorhandle/internal/DefaultExceptionHandler.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.DefaultExceptionHandler.java">com/yirendai/oss/lib/errorhandle/internal/DefaultExceptionHandler.java</a>
                 </td>
                 <td>
                   0
@@ -116,7 +116,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.starter.ErrorHandleAutoConfiguration.java">com/yirendai/oss/lib/errorhandle/starter/ErrorHandleAutoConfiguration.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.starter.ErrorHandleAutoConfiguration.java">com/yirendai/oss/lib/errorhandle/starter/ErrorHandleAutoConfiguration.java</a>
                 </td>
                 <td>
                   0
@@ -130,7 +130,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.AbstractConcreteExceptionResolver.java">com/yirendai/oss/lib/errorhandle/api/AbstractConcreteExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.AbstractConcreteExceptionResolver.java">com/yirendai/oss/lib/errorhandle/api/AbstractConcreteExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -144,7 +144,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#git.properties">git.properties</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#git.properties">git.properties</a>
                 </td>
                 <td>
                   0
@@ -158,7 +158,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#errorhandle.default.properties">errorhandle/default.properties</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#errorhandle.default.properties">errorhandle/default.properties</a>
                 </td>
                 <td>
                   0
@@ -172,7 +172,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.HttpHeader.java">com/yirendai/oss/lib/errorhandle/api/HttpHeader.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.HttpHeader.java">com/yirendai/oss/lib/errorhandle/api/HttpHeader.java</a>
                 </td>
                 <td>
                   0
@@ -186,7 +186,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.rpc.GenericFeignErrorDecoder.java">com/yirendai/oss/lib/errorhandle/internal/rpc/GenericFeignErrorDecoder.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.rpc.GenericFeignErrorDecoder.java">com/yirendai/oss/lib/errorhandle/internal/rpc/GenericFeignErrorDecoder.java</a>
                 </td>
                 <td>
                   0
@@ -200,7 +200,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.RestfulExceptionHandler.java">com/yirendai/oss/lib/errorhandle/internal/RestfulExceptionHandler.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.RestfulExceptionHandler.java">com/yirendai/oss/lib/errorhandle/internal/RestfulExceptionHandler.java</a>
                 </td>
                 <td>
                   0
@@ -214,7 +214,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.translator.DefaultExceptionTranslator.java">com/yirendai/oss/lib/errorhandle/internal/translator/DefaultExceptionTranslator.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.translator.DefaultExceptionTranslator.java">com/yirendai/oss/lib/errorhandle/internal/translator/DefaultExceptionTranslator.java</a>
                 </td>
                 <td>
                   0
@@ -228,7 +228,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.HttpRequestMethodNotSupportedExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/HttpRequestMethodNotSupportedExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.HttpRequestMethodNotSupportedExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/HttpRequestMethodNotSupportedExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -242,7 +242,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.TemplateExceptionHandler.java">com/yirendai/oss/lib/errorhandle/internal/TemplateExceptionHandler.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.TemplateExceptionHandler.java">com/yirendai/oss/lib/errorhandle/internal/TemplateExceptionHandler.java</a>
                 </td>
                 <td>
                   0
@@ -256,7 +256,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ResolvedError.java">com/yirendai/oss/lib/errorhandle/api/ResolvedError.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ResolvedError.java">com/yirendai/oss/lib/errorhandle/api/ResolvedError.java</a>
                 </td>
                 <td>
                   0
@@ -270,7 +270,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.starter.CompositeExceptionResolverFactoryBean.java">com/yirendai/oss/lib/errorhandle/starter/CompositeExceptionResolverFactoryBean.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.starter.CompositeExceptionResolverFactoryBean.java">com/yirendai/oss/lib/errorhandle/starter/CompositeExceptionResolverFactoryBean.java</a>
                 </td>
                 <td>
                   0
@@ -284,7 +284,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.starter.ExceptionHandlerConfiguration.java">com/yirendai/oss/lib/errorhandle/starter/ExceptionHandlerConfiguration.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.starter.ExceptionHandlerConfiguration.java">com/yirendai/oss/lib/errorhandle/starter/ExceptionHandlerConfiguration.java</a>
                 </td>
                 <td>
                   0
@@ -298,7 +298,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ValidationError.java">com/yirendai/oss/lib/errorhandle/api/ValidationError.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ValidationError.java">com/yirendai/oss/lib/errorhandle/api/ValidationError.java</a>
                 </td>
                 <td>
                   0
@@ -312,7 +312,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.StackTraceIndicator.java">com/yirendai/oss/lib/errorhandle/api/StackTraceIndicator.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.StackTraceIndicator.java">com/yirendai/oss/lib/errorhandle/api/StackTraceIndicator.java</a>
                 </td>
                 <td>
                   0
@@ -326,7 +326,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#errorhandle.default_zh.properties">errorhandle/default_zh.properties</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#errorhandle.default_zh.properties">errorhandle/default_zh.properties</a>
                 </td>
                 <td>
                   0
@@ -340,7 +340,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.CompositeExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/CompositeExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.CompositeExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/CompositeExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -354,7 +354,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.BaseErrorController.java">com/yirendai/oss/lib/errorhandle/internal/BaseErrorController.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.BaseErrorController.java">com/yirendai/oss/lib/errorhandle/internal/BaseErrorController.java</a>
                 </td>
                 <td>
                   0
@@ -368,7 +368,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.DefaultExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/DefaultExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.DefaultExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/DefaultExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -382,7 +382,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.starter.ExceptionResolverConfiguration.java">com/yirendai/oss/lib/errorhandle/starter/ExceptionResolverConfiguration.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.starter.ExceptionResolverConfiguration.java">com/yirendai/oss/lib/errorhandle/starter/ExceptionResolverConfiguration.java</a>
                 </td>
                 <td>
                   0
@@ -396,7 +396,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ApplicationExceptions.java">com/yirendai/oss/lib/errorhandle/api/ApplicationExceptions.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ApplicationExceptions.java">com/yirendai/oss/lib/errorhandle/api/ApplicationExceptions.java</a>
                 </td>
                 <td>
                   0
@@ -410,7 +410,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ExceptionTranslator.java">com/yirendai/oss/lib/errorhandle/api/ExceptionTranslator.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ExceptionTranslator.java">com/yirendai/oss/lib/errorhandle/api/ExceptionTranslator.java</a>
                 </td>
                 <td>
                   0
@@ -424,7 +424,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.rpc.FeignErrorDecoderConfiguration.java">com/yirendai/oss/lib/errorhandle/internal/rpc/FeignErrorDecoderConfiguration.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.rpc.FeignErrorDecoderConfiguration.java">com/yirendai/oss/lib/errorhandle/internal/rpc/FeignErrorDecoderConfiguration.java</a>
                 </td>
                 <td>
                   0
@@ -438,7 +438,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.ContentCachingRequestFilter.java">com/yirendai/oss/lib/errorhandle/internal/ContentCachingRequestFilter.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.ContentCachingRequestFilter.java">com/yirendai/oss/lib/errorhandle/internal/ContentCachingRequestFilter.java</a>
                 </td>
                 <td>
                   0
@@ -452,7 +452,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.MethodArgumentNotValidExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/MethodArgumentNotValidExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.MethodArgumentNotValidExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/MethodArgumentNotValidExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -466,7 +466,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.ExtendedErrorAttributes.java">com/yirendai/oss/lib/errorhandle/internal/ExtendedErrorAttributes.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.ExtendedErrorAttributes.java">com/yirendai/oss/lib/errorhandle/internal/ExtendedErrorAttributes.java</a>
                 </td>
                 <td>
                   0
@@ -480,7 +480,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.DefaultStackTraceIndicator.java">com/yirendai/oss/lib/errorhandle/internal/DefaultStackTraceIndicator.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.DefaultStackTraceIndicator.java">com/yirendai/oss/lib/errorhandle/internal/DefaultStackTraceIndicator.java</a>
                 </td>
                 <td>
                   0
@@ -494,7 +494,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.ConstraintViolationExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/ConstraintViolationExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.ConstraintViolationExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/ConstraintViolationExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -508,7 +508,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ExceptionResolver.java">com/yirendai/oss/lib/errorhandle/api/ExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.api.ExceptionResolver.java">com/yirendai/oss/lib/errorhandle/api/ExceptionResolver.java</a>
                 </td>
                 <td>
                   0
@@ -522,7 +522,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.1.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.HttpMediaTypeNotSupportedExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/HttpMediaTypeNotSupportedExceptionResolver.java</a>
+                  <a href="https://github.com/home1-oss/oss-lib-errorhandle/oss-lib-errorhandle-spring-boot-1.4.2.RELEASE/checkstyle.html#com.yirendai.oss.lib.errorhandle.internal.resolver.HttpMediaTypeNotSupportedExceptionResolver.java">com/yirendai/oss/lib/errorhandle/internal/resolver/HttpMediaTypeNotSupportedExceptionResolver.java</a>
                 </td>
                 <td>
                   0
