@@ -31,6 +31,7 @@ echo "eval \$(curl -s -L ${GIT_SERVICE}/${GIT_REPO_OWNER}/oss-build/raw/${BUILD_
 eval "$(curl -s -L ${GIT_SERVICE}/${GIT_REPO_OWNER}/oss-build/raw/${BUILD_SCRIPT_REF}/src/main/ci-script/ci.sh)"
 ### OSS CI CALL REMOTE CI SCRIPT END
 
+
 # home1-oss && not pr trigger will on condition
 if ([ "${GIT_REPO_OWNER}" == "${BUILD_HOME1_OSS_OWNER}" ] && [ "pull_request" != "${TRAVIS_EVENT_TYPE}" ]); then
     case "$CI_BUILD_REF_NAME" in
