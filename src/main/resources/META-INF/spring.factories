@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.yirendai.oss.lib.errorhandle.starter.ErrorHandleAutoConfiguration
+cn.home1.oss.lib.errorhandle.starter.ErrorHandleAutoConfiguration

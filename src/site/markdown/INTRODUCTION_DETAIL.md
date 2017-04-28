@@ -84,7 +84,7 @@
   
 ## 主动抛出异常
 
-使用 com.yirendai.oss.lib.errorhandle.api.ApplicationExceptions
+使用 cn.home1.oss.lib.errorhandle.api.ApplicationExceptions
 
 -   public static void checkArgument( //
         final boolean expression, // 判断参数

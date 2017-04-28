@@ -17,7 +17,7 @@
     <dependencyManagement>
       <dependencies>
         <dependency>
-          <groupId>com.yirendai.oss</groupId>
+          <groupId>cn.home1</groupId>
           <artifactId>oss-release-spring-boot-${spring-boot.version}</artifactId>
           <version>${oss-release.version}</version>
           <type>pom</type>
@@ -30,7 +30,7 @@
       ...
       <!--errorhandle-->
       <dependency>
-        <groupId>com.yirendai.oss.lib</groupId>
+        <groupId>cn.home1.oss.lib</groupId>
         <artifactId>oss-lib-errorhandle-spring-boot-${spring-boot.version}</artifactId>
       </dependency>      
       ...

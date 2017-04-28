@@ -151,7 +151,7 @@
         @Documented
         public @interface UserNotExist {
     
-          String message() default "{com.yirendai.oss.quickstarter.Validation.UserNotExist.message}";
+          String message() default "{cn.home1.oss.quickstarter.Validation.UserNotExist.message}";
 
           Class<?>[] groups() default {};
     
