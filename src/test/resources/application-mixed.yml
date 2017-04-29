@@ -2,7 +2,7 @@
 logging.level.: ${LOGGING_LEVEL_:INFO}
 logging:
   level:
-    com.yirendai: ${LOGGING_LEVEL_:INFO}
+    cn.home1: ${LOGGING_LEVEL_:INFO}
     org.eclipse.jetty: ${LOGGING_LEVEL_:INFO}
     org.springframework: ${LOGGING_LEVEL_:INFO}
 
